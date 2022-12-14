@@ -1,0 +1,27 @@
+{
+  "name": "primer-proyecto-con-react",
+  "version": "1.0.0",
+  "description": "React eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrfcero98/Primer-proyecto-con-React.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Rafael Ceron <rrfcero98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrfcero98/Primer-proyecto-con-React/issues"
+  },
+  "homepage": "https://github.com/rrfcero98/Primer-proyecto-con-React#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
